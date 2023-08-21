@@ -4,3 +4,14 @@
 # Introduction
 Data structures are a fundamental topic in computer science, introducing several basic structures such as arrays, linked lists, stacks, trees, among others. 
 The objective of this course is to provide knowledge of common structures and their practice. Additionally, some algorithms related to the course are also covered.  
+This repo
+
+# Outlines 
+
+
+
+# Course information
+- Professor: 徐熊健 
+- About: https://imf.nycu.edu.tw/zh_tw/members/members2/%E5%BE%90%E7%86%8A%E5%81%A5-63611077
+- Course link: https://sites.google.com/view/sjshyudsimf/home?authuser=0
+- IDE: C++ Builder
