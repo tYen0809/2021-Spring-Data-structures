@@ -2,5 +2,5 @@
 110-2 陽明交通大學資財系 資料結構 
 
 # Introduction
-Data structure is the basic course in computer science, introducing several basic structures such as array, linked lists, stacks, trees, etc. 
-The objective of this course is to provide knowledge of common structures and its practice. 
+Data structures are a fundamental topic in computer science, introducing several basic structures such as arrays, linked lists, stacks, trees, among others. 
+The objective of this course is to provide knowledge of common structures and their practice. Additionally, some algorithms related to the course are also covered.  
