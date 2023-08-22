@@ -3,10 +3,20 @@
 
 # Introduction
 Data structures are a fundamental topic in computer science, introducing several basic structures such as arrays, linked lists, stacks, trees, among others. 
-The objective of this course is to provide knowledge of common structures and their practice. Additionally, some algorithms related to the course are also covered.  
+
+The objective of this course is to provide knowledge of common structures and their practice. Additionally, some algorithms related to the course are also covered. 
+
+Algorithms + Data structures = Programs [Niklus Wirth]
 
 # Outlines 
-
+- Introduction
+- Arrays and Structures
+- Stacks and Queues
+- Lists and Double linked list
+- Trees 
+- Graph
+- Sorting
+- And other related Topics
 
 # Course information
 - Professor: 徐熊健 
